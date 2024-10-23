@@ -83,7 +83,7 @@ export default function Home() {
           <SocialIcon target="_blank" url="https://t.me/metasal" />
           <SocialIcon target="_blank" url="https://instagram.com/metasal" />
           <SocialIcon target="_blank" url="https://github.com/metasal1" />
-          <SocialIcon target="_blank" url="https://youtube.com/@metasal1" />
+          <SocialIcon target="_blank" url="https://youtube.com/@metasal" />
           <SocialIcon target="_blank" url="https://discord.com/users/702642579090440265" />
           <SocialIcon target="_blank" url="mailto:gm@metasal.xyz" />
           <SocialIcon target="_blank" url="https://calendly.com/metasal" label="Book a meeting" network="vsco" />
