@@ -1,8 +1,7 @@
 import type { Metadata } from "next";
 import localFont from "next/font/local";
 import "./globals.css";
-import { Analytics } from "@vercel/analytics/react"
-
+import Script from "next/script";
 const geistSans = localFont({
   src: "./fonts/GeistVF.woff",
   variable: "--font-geist-sans",
@@ -31,7 +30,7 @@ export default function RootLayout({
       >
         {children}
       </body>
-      <Analytics />
+      <Script defer src="https://analytics.tokenshit.com/script.js" data-website-id="59186106-2985-4073-9b4f-cc448bc7058f"></Script>
     </html>
   );
 }
