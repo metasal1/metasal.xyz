@@ -39,8 +39,7 @@ const links: LinkData[] = [
   { name: "Moon Wallet", url: "https://t.me/moonWallet_solbot?start=NpC4AFbr" },
   { name: "Moonshot", url: "https://moonshot.money?ref=VG4jb5kjvN" },
   { name: "Moonwalk", url: "https://app.moonwalk.fit/?referral=metasal" },
-  { name: "MyBlink", url: "https://www.myblink.xyz/" },
-  { name: "NFT Hodlers", url: "https://nfthodlers.vercel.app/" },
+  { name: "Omi AI", url: "https://www.omi.me/?ref=metasal" },
   { name: "Program Db", url: "https://programdb.vercel.app/" },
   { name: "Raybot", url: "https://t.me/ray_blue_bot?start=ref_G7hJt5" },
   { name: "Saga", url: "https://solanamobile.com/refer/metasal_" },
@@ -97,10 +96,22 @@ export default function Home() {
         <div className="flex gap-6 flex-wrap items-center justify-center">
           <a href="https://pudgydrop.vercel.app" target="_blank" rel="noopener noreferrer" className="mx-4"><OpenIcon />pudgydrop.vercel.app </a>
           <a href="https://solburner.app" target="_blank" rel="noopener noreferrer" className="mx-4"><OpenIcon />solburner.app</a>
+          <a href="https://sol.new" target="_blank" rel="noopener noreferrer" className="mx-4"><OpenIcon />sol.new</a>
           <a href="https://programwatch.dev" target="_blank" rel="noopener noreferrer" className="mx-4"><OpenIcon />programwatch.dev</a>
           <a href="https://blinkfinder.vercel.app" target="_blank" rel="noopener noreferrer" className="mx-4"><OpenIcon />blinkfinder.vercel.app</a>
           <a href="https://crabcast.vercel.app" target="_blank" rel="noopener noreferrer" className="mx-4"><OpenIcon />crabcast.vercel.app</a>
+          <a href="https://www.myblink.xyz/" target="_blank" rel="noopener noreferrer" className="mx-4"><OpenIcon />myblink.xyz</a>
+          <a href="https://nfthodlers.vercel.app/" target="_blank" rel="noopener noreferrer" className="mx-4"><OpenIcon />nfthodlers.vercel.app</a>
+          <a href="https://solweb3.vercel.app/" target="_blank" rel="noopener noreferrer" className="mx-4"><OpenIcon />solweb3.vercel.app</a>
+          <a href="https://solage.vercel.app/" target="_blank" rel="noopener noreferrer" className="mx-4"><OpenIcon />solage.vercel.app</a>
+          <a href="https://minrent.vercel.app/" target="_blank" rel="noopener noreferrer" className="mx-4"><OpenIcon />minrent.vercel.app</a>
+          <a href="https://letsbounce.vercel.app/" target="_blank" rel="noopener noreferrer" className="mx-4"><OpenIcon />letsbounce.vercel.app</a>
+          <a href="https://letsibrl.vercel.app/" target="_blank" rel="noopener noreferrer" className="mx-4"><OpenIcon />letsibrl.vercel.app</a>
+          <a href="https://www.ibrl.club/" target="_blank" rel="noopener noreferrer" className="mx-4"><OpenIcon />ibrl.club</a>
+          <a href="https://nfthodlers.vercel.app/" target="_blank" rel="noopener noreferrer" className="mx-4"><OpenIcon />nfthodlers.vercel.app</a>
+          <a href="https://tokenstats.vercel.app/" target="_blank" rel="noopener noreferrer" className="mx-4"><OpenIcon />tokenstats.vercel.app</a>
         </div>
+
         <div className="flex gap-6 flex-wrap items-center justify-center">
           <a
             className="flex items-center gap-2 hover:underline hover:underline-offset-4"
