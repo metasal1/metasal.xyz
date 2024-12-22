@@ -123,6 +123,7 @@ export default function Home() {
           >
             BONUS
           </button>
+          <div className="text-sm text-gray-500"><a href="https://beta.sanctum.so/metasal/support" target="_blank" rel="noopener noreferrer">Support Metasal by staking your SOL as SalSOL</a></div>
         </div>
 
         {showTable && (
