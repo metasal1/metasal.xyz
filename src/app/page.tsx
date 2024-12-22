@@ -3,6 +3,7 @@ import Image from "next/image";
 import { SocialIcon } from 'react-social-icons'
 import QRCode from "react-qr-code";
 import { useState } from 'react';
+import { RxOpenInNewWindow as OpenIcon } from "react-icons/rx";
 
 interface LinkData {
   name: string;
@@ -23,6 +24,7 @@ const links: LinkData[] = [
   { name: "Divvy Bet", url: "https://app.divvy.bet/?r=downunder" },
   { name: "Drift", url: "https://app.drift.trade/ref/salim" },
   { name: "Drip", url: "https://drip.haus/?code=AwcfF9S4" },
+  { name: "Echo", url: "https://sayecho.xyz/?r=metasal_" },
   { name: "Events", url: "https://lu.ma/calendar/manage/cal-5AwelwAyyUTWlbS" },
   { name: "Flash Trade", url: "https://beast.flash.trade/?referral=Beast_0788" },
   { name: "Fluxbot", url: "https://t.me/fluxbeam_bot?start=metasal" },
@@ -91,6 +93,14 @@ export default function Home() {
       </main>
 
       <footer className="row-start-3 flex flex-col gap-6 items-center justify-center w-full">
+        <div className="text-xl font-bold text-green-500">RECENT PROJECTS</div>
+        <div className="flex gap-6 flex-wrap items-center justify-center">
+          <a href="https://pudgydrop.vercel.app" target="_blank" rel="noopener noreferrer" className="mx-4"><OpenIcon />pudgydrop.vercel.app </a>
+          <a href="https://solburner.app" target="_blank" rel="noopener noreferrer" className="mx-4"><OpenIcon />solburner.app</a>
+          <a href="https://programwatch.dev" target="_blank" rel="noopener noreferrer" className="mx-4"><OpenIcon />programwatch.dev</a>
+          <a href="https://blinkfinder.vercel.app" target="_blank" rel="noopener noreferrer" className="mx-4"><OpenIcon />blinkfinder.vercel.app</a>
+          <a href="https://crabcast.vercel.app" target="_blank" rel="noopener noreferrer" className="mx-4"><OpenIcon />crabcast.vercel.app</a>
+        </div>
         <div className="flex gap-6 flex-wrap items-center justify-center">
           <a
             className="flex items-center gap-2 hover:underline hover:underline-offset-4"
