@@ -35,6 +35,7 @@ const links: LinkData[] = [
   { name: "Infinex", url: "https://app.infinex.xyz?r=Y8A0C0NS" },
   { name: "ISC", url: "https://prospera.isc.money/?ref=ML8DAYJN" },
   { name: "Jupiter Exchange", url: "https://jup.ag/swap/USDC-FUTURE?referrer=8bbPc25fviwtBdDNR7dxyznp2qxUTKbxGtsougy9w7de&feeBps=100" },
+  { name: "Kaito", url: "https://portal.kaito.ai/auth/entry?referralCode=A912D518" },
   { name: "Ledger", url: "https://shop.ledger.com/pages/referral-program?referral_code=3RWBV1JGQ3Z3G" },
   { name: "Moon Wallet", url: "https://t.me/moonWallet_solbot?start=NpC4AFbr" },
   { name: "Moonshot", url: "https://moonshot.money?ref=VG4jb5kjvN" },
