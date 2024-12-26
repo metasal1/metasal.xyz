@@ -95,6 +95,7 @@ export default function Home() {
       <footer className="row-start-3 flex flex-col gap-6 items-center justify-center w-full">
         <div className="text-xl font-bold text-green-500">RECENT PROJECTS</div>
         <div className="flex gap-6 flex-wrap items-center justify-center">
+          <a href="https://blockedfish.vercel.app/" target="_blank" rel="noopener noreferrer" className="mx-4"><OpenIcon />blockedfish.vercel.app </a>
           <a href="https://pudgydrop.vercel.app" target="_blank" rel="noopener noreferrer" className="mx-4"><OpenIcon />pudgydrop.vercel.app </a>
           <a href="https://solburner.app" target="_blank" rel="noopener noreferrer" className="mx-4"><OpenIcon />solburner.app</a>
           <a href="https://sol.new" target="_blank" rel="noopener noreferrer" className="mx-4"><OpenIcon />sol.new</a>
