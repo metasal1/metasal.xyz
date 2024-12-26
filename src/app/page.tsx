@@ -31,6 +31,7 @@ const links: LinkData[] = [
   { name: "Fuse Wallet", url: "https://invite.fusewallet.com/welcome?code=c66fd3be-f4f0-48ea-b2a2-a24f32e4681a" },
   { name: "Github", url: "https://github.com/metasal1" },
   { name: "Grass", url: "https://app.getgrass.io/register/?referralCode=S4xVHIPDFMG6NIi" },
+  { name: "Gib", url: "https://app.gib.work?ref=metasal" },
   { name: "Independent", url: "https://portal.independentreserve.com/register?referralCode=BNSGTC" },
   { name: "Infinex", url: "https://app.infinex.xyz?r=Y8A0C0NS" },
   { name: "ISC", url: "https://prospera.isc.money/?ref=ML8DAYJN" },
