@@ -100,6 +100,7 @@ export default function Home() {
           <a href="https://alldomains.id/" target="_blank" rel="noopener noreferrer" className="mx-4"><OpenIcon />alldomains.id</a>
           <a href="https://spl.tokenshit.com/price/SENDdRQtYMWaQrBroBrJ2Q53fgVuq95CV9UPGEvpCxa" target="_blank" rel="noopener noreferrer" className="mx-4"><OpenIcon />spl.tokenshit.com</a>
           <a href="https://blockedfish.vercel.app/" target="_blank" rel="noopener noreferrer" className="mx-4"><OpenIcon />blockedfish.vercel.app </a>
+          <a href="https://minrent.vercel.app/" target="_blank" rel="noopener noreferrer" className="mx-4"><OpenIcon />minrent.vercel.app</a>
           <a href="https://pudgydrop.vercel.app" target="_blank" rel="noopener noreferrer" className="mx-4"><OpenIcon />pudgydrop.vercel.app </a>
           <a href="https://solburner.fun" target="_blank" rel="noopener noreferrer" className="mx-4"><OpenIcon />solburner.fun</a>
           <a href="https://sol.new" target="_blank" rel="noopener noreferrer" className="mx-4"><OpenIcon />sol.new</a>
