@@ -96,6 +96,8 @@ export default function Home() {
       <footer className="row-start-3 flex flex-col gap-6 items-center justify-center w-full">
         <div className="text-xl font-bold text-green-500">RECENT PROJECTS</div>
         <div className="flex gap-6 flex-wrap items-center justify-center">
+          <a href="https://www.npmjs.com/package/soltool" target="_blank" rel="noopener noreferrer" className="mx-4"><OpenIcon />soltool</a>
+          <a href="https://supapumpbot.fun/" target="_blank" rel="noopener noreferrer" className="mx-4"><OpenIcon />supapumpbot.fun</a>
           <a href="https://nftmate.vercel.app/" target="_blank" rel="noopener noreferrer" className="mx-4"><OpenIcon />nftmate.vercel.app 🏆</a>
           <a href="https://solweb3.vercel.app/" target="_blank" rel="noopener noreferrer" className="mx-4"><OpenIcon />solweb3.vercel.app</a>
           <a href="https://alldomains.id/" target="_blank" rel="noopener noreferrer" className="mx-4"><OpenIcon />alldomains.id</a>
