@@ -96,11 +96,13 @@ export default function Home() {
       <footer className="row-start-3 flex flex-col gap-6 items-center justify-center w-full">
         <div className="text-xl font-bold text-green-500">RECENT PROJECTS</div>
         <div className="flex gap-6 flex-wrap items-center justify-center">
+
+          <a href="https://solwebkit.vercel.app/" target="_blank" rel="noopener noreferrer" className="mx-4"><OpenIcon />solwebkit.vercel.app</a>
+          <a href="https://scan.supapump.fun" target="_blank" rel="noopener noreferrer" className="mx-4"><OpenIcon />scan.supapump.fun</a>
           <a href="https://supaconvert.vercel.app" target="_blank" rel="noopener noreferrer" className="mx-4"><OpenIcon />supaconvert.vercel.app</a>
           <a href="https://www.npmjs.com/package/soltool" target="_blank" rel="noopener noreferrer" className="mx-4"><OpenIcon />soltool</a>
           <a href="https://supapump.fun/" target="_blank" rel="noopener noreferrer" className="mx-4"><OpenIcon />supapump.fun</a>
           <a href="https://nftmate.vercel.app/" target="_blank" rel="noopener noreferrer" className="mx-4"><OpenIcon />nftmate.vercel.app 🏆</a>
-          <a href="https://solweb3.vercel.app/" target="_blank" rel="noopener noreferrer" className="mx-4"><OpenIcon />solweb3.vercel.app</a>
           <a href="https://alldomains.id/" target="_blank" rel="noopener noreferrer" className="mx-4"><OpenIcon />alldomains.id</a>
           <a href="https://fam.fabs.fun/" target="_blank" rel="noopener noreferrer" className="mx-4"><OpenIcon />fam.fabs.fun</a>
           <a href="https://spl.tokenshit.com/price/SENDdRQtYMWaQrBroBrJ2Q53fgVuq95CV9UPGEvpCxa" target="_blank" rel="noopener noreferrer" className="mx-4"><OpenIcon />spl.tokenshit.com</a>
