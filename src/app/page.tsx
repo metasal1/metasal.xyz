@@ -96,7 +96,7 @@ export default function Home() {
       <footer className="row-start-3 flex flex-col gap-6 items-center justify-center w-full">
         <div className="text-xl font-bold text-green-500">RECENT PROJECTS</div>
         <div className="flex gap-6 flex-wrap items-center justify-center">
-
+          <a href="https://solvogue.vercel.app/" target="_blank" rel="noopener noreferrer" className="mx-4"><OpenIcon />solvogue.vercel.app</a>
           <a href="https://solwebkit.vercel.app/" target="_blank" rel="noopener noreferrer" className="mx-4"><OpenIcon />solwebkit.vercel.app</a>
           <a href="https://scan.supapump.fun" target="_blank" rel="noopener noreferrer" className="mx-4"><OpenIcon />scan.supapump.fun</a>
           <a href="https://supaconvert.vercel.app" target="_blank" rel="noopener noreferrer" className="mx-4"><OpenIcon />supaconvert.vercel.app</a>
