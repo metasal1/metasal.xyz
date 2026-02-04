@@ -1,0 +1,5 @@
+# solana.txt - metasal.xyz
+# sRFC-35: Address/Domain Association Specification
+# https://forum.solana.com/t/srfc-35-address-domain-association-specification/3155
+
+solana-address=MTSLZDJppGh6xUcnrSSbSQE5fgbvCtQ496MqgQTv8c1
