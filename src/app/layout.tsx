@@ -30,6 +30,13 @@ export default function RootLayout({
       >
         {children}
       </body>
+      <Script strategy="afterInteractive" src="https://www.googletagmanager.com/gtag/js?id=G-EGCTLS6GF5" />
+      <Script id="google-analytics" strategy="afterInteractive">{`
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-EGCTLS6GF5');
+      `}</Script>
       <Script defer src="https://analytics.tokenshit.com/script.js" data-website-id="59186106-2985-4073-9b4f-cc448bc7058f"></Script>
     </html>
   );
