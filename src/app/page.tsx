@@ -113,7 +113,6 @@ export default function Home() {
           <a href="https://sol.new" target="_blank" rel="noopener noreferrer" className="mx-4"><OpenIcon />sol.new</a>
           <a href="https://programwatch.dev" target="_blank" rel="noopener noreferrer" className="mx-4"><OpenIcon />programwatch.dev</a>
           <a href="https://blinkfinder.vercel.app" target="_blank" rel="noopener noreferrer" className="mx-4"><OpenIcon />blinkfinder.vercel.app</a>
-          <a href="https://crabcast.vercel.app" target="_blank" rel="noopener noreferrer" className="mx-4"><OpenIcon />crabcast.vercel.app</a>
           <a href="https://www.myblink.xyz/" target="_blank" rel="noopener noreferrer" className="mx-4"><OpenIcon />myblink.xyz</a>
           <a href="https://nfthodlers.vercel.app/" target="_blank" rel="noopener noreferrer" className="mx-4"><OpenIcon />nfthodlers.vercel.app</a>
           <a href="https://solage.vercel.app/" target="_blank" rel="noopener noreferrer" className="mx-4"><OpenIcon />solage.vercel.app</a>
