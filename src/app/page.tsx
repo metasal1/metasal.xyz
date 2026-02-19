@@ -98,7 +98,6 @@ export default function Home() {
         <div className="flex gap-6 flex-wrap items-center justify-center">
           <a href="https://solvogue.vercel.app/" target="_blank" rel="noopener noreferrer" className="mx-4"><OpenIcon />solvogue.vercel.app</a>
           <a href="https://solwebkit.vercel.app/" target="_blank" rel="noopener noreferrer" className="mx-4"><OpenIcon />solwebkit.vercel.app</a>
-          <a href="https://scan.supapump.fun" target="_blank" rel="noopener noreferrer" className="mx-4"><OpenIcon />scan.supapump.fun</a>
           <a href="https://www.npmjs.com/package/soltool" target="_blank" rel="noopener noreferrer" className="mx-4"><OpenIcon />soltool</a>
           <a href="https://supapump.fun/" target="_blank" rel="noopener noreferrer" className="mx-4"><OpenIcon />supapump.fun</a>
           <a href="https://nftmate.vercel.app/" target="_blank" rel="noopener noreferrer" className="mx-4"><OpenIcon />nftmate.vercel.app 🏆</a>
