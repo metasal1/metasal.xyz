@@ -98,8 +98,6 @@ export default function Home() {
         <div className="flex gap-6 flex-wrap items-center justify-center">
           <a href="https://solvogue.vercel.app/" target="_blank" rel="noopener noreferrer" className="mx-4"><OpenIcon />solvogue.vercel.app</a>
           <a href="https://solwebkit.vercel.app/" target="_blank" rel="noopener noreferrer" className="mx-4"><OpenIcon />solwebkit.vercel.app</a>
-          <a href="https://scan.supapump.fun" target="_blank" rel="noopener noreferrer" className="mx-4"><OpenIcon />scan.supapump.fun</a>
-          <a href="https://supaconvert.vercel.app" target="_blank" rel="noopener noreferrer" className="mx-4"><OpenIcon />supaconvert.vercel.app</a>
           <a href="https://www.npmjs.com/package/soltool" target="_blank" rel="noopener noreferrer" className="mx-4"><OpenIcon />soltool</a>
           <a href="https://supapump.fun/" target="_blank" rel="noopener noreferrer" className="mx-4"><OpenIcon />supapump.fun</a>
           <a href="https://nftmate.vercel.app/" target="_blank" rel="noopener noreferrer" className="mx-4"><OpenIcon />nftmate.vercel.app 🏆</a>
@@ -113,7 +111,6 @@ export default function Home() {
           <a href="https://sol.new" target="_blank" rel="noopener noreferrer" className="mx-4"><OpenIcon />sol.new</a>
           <a href="https://programwatch.dev" target="_blank" rel="noopener noreferrer" className="mx-4"><OpenIcon />programwatch.dev</a>
           <a href="https://blinkfinder.vercel.app" target="_blank" rel="noopener noreferrer" className="mx-4"><OpenIcon />blinkfinder.vercel.app</a>
-          <a href="https://crabcast.vercel.app" target="_blank" rel="noopener noreferrer" className="mx-4"><OpenIcon />crabcast.vercel.app</a>
           <a href="https://www.myblink.xyz/" target="_blank" rel="noopener noreferrer" className="mx-4"><OpenIcon />myblink.xyz</a>
           <a href="https://nfthodlers.vercel.app/" target="_blank" rel="noopener noreferrer" className="mx-4"><OpenIcon />nfthodlers.vercel.app</a>
           <a href="https://solage.vercel.app/" target="_blank" rel="noopener noreferrer" className="mx-4"><OpenIcon />solage.vercel.app</a>
